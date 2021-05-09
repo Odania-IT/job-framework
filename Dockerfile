@@ -1,4 +1,4 @@
-FROM ubuntu:17.10
+FROM ubuntu:20.04
 MAINTAINER Mike Petersen <mike@odania-it.de>
 
 ENV TERM xterm
